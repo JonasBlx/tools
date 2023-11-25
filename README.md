@@ -5,5 +5,3 @@ Represents the architecture of working folders. Useful for getting an overview o
 
 ## copy_files : 
 Useful for duplicating a file in another folder.
-
-## I will continue to share simples tools
