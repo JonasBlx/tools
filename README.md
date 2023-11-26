@@ -5,3 +5,6 @@ Represents the architecture of working folders. Useful for getting an overview o
 
 ## copy_files : 
 Useful for duplicating a file in another folder.
+
+## ppm_display :
+Visualize the ppm images in a selected directory
